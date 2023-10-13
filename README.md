@@ -1,27 +1,49 @@
-# PsnStore
+# Recriando a Interface da PlayStation Store com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+Plataforma desenvolvida durante o curso `Trabalhando com Rotas e Serviços no Angular` durante o 'Bootcamp Santander - Fullstack Java+Angular da DIO (Digital Innovation One).
 
-## Development server
+<p align="center">
+  <img src=".github/Home.jpg" width="100%">
+  <img src=".github/Content.jpg" width="100%">
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br>
 
-## Code scaffolding
+## 🛠 Tecnologias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Build
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Angular](https://angular.io/)**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<br>
 
-## Running unit tests
+## 🎲 DEMO
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+https://github.com/Ciro-TI-System/blog-angular/assets/
 
-## Running end-to-end tests
+<br>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 📝 License
 
-## Further help
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+<p align="center">Esse projeto está sob a licença MIT.</p>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<br>
+
+### 👨‍💻 Autor
+
+ <img style="border-radius: 50%;" src="./public/TI-System.png" width="100px;" alt=""/>
+ <em>Ciro Batista da Silva<em>
+ 
+ <br/>
+
+ <p>👋🏽 Entre em contato!</p>
+
+[![Twitter Badge](https://img.shields.io/badge/-@CiroSilva2020-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CiroSilva2020)](https://twitter.com/CiroSilva2020) [![Linkedin Badge](https://img.shields.io/badge/-Ciro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ciro-batista-da-silva-8b6838205/)](https://www.linkedin.com/in/ciro-batista-da-silva-8b6838205/)
+[![Gmail Badge](https://img.shields.io/badge/-cirofight@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cirofight@gmail.com)](mailto:cirofight@gmail.com)
