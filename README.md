@@ -22,10 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎲 DEMO
 
-
-
-
-
+https://github.com/Ciro-TI-System/psn-store/assets/78507494/84b4ea84-0093-40a9-9ece-49877d7020e8
 
 <br>
 
