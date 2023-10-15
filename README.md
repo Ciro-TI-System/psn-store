@@ -3,8 +3,7 @@
 Plataforma desenvolvida durante o curso `Trabalhando com Rotas e Serviços no Angular` durante o 'Bootcamp Santander - Fullstack Java+Angular da DIO (Digital Innovation One).
 
 <p align="center">
-  <img src=".github/Home.jpg" width="100%">
-  <img src=".github/Content.jpg" width="100%">
+  <img src=".github/PsnStore.jpg" width="100%">
 </p>
 
 <br>
@@ -23,7 +22,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎲 DEMO
 
-https://github.com/Ciro-TI-System/blog-angular/assets/
+
+
+
+
 
 <br>
 
